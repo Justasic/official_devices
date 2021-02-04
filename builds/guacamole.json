@@ -1,17 +1,17 @@
 {
-   "datetime": "1610111670",
+   "datetime": "1612365456",
    "donate_url": "https://www.paypal.me/Justasic",
    "error": false,
-   "filehash": "6cd09d5bcdcf33c24e5bf7a2e6cce803",
-   "filename": "EvolutionX_5.3_guacamole-11-20210108-1316-OFFICIAL.zip",
+   "filehash": "3b164f25a535d660d25ac401c001e2e6",
+   "filename": "EvolutionX_5.4_guacamole-11-20210203-1517-OFFICIAL.zip",
    "forum_url": "https://forum.xda-developers.com/t/rom-11-0-official-ooscam-oneplus-7-pro-11-0_r20-evolution-x-emerald.4212351/",
-   "id": "c92f4813fd97208be68741a312d2309e5aeb288ada3aa11e210a0c2ba3593c4f",
+   "id": "2c03edf5aa1828a6340676eb22d77db83ec610ceb109e294399c1f49199280b4",
    "maintainer": "Justin Crawford",
    "maintainer_url": "https://github.com/Justasic",
    "news_url": "https://t.me/EvolutionXOfficial",
-   "size": 1803922717,
+   "size": 1798160366,
    "telegram_username": "Justasic",
-   "url": "https://sourceforge.net/projects/evolution-x/files/guacamole/EvolutionX_5.3_guacamole-11-20210108-1316-OFFICIAL.zip/download",
+   "url": "https://sourceforge.net/projects/evolution-x/files/guacamole/EvolutionX_5.4_guacamole-11-20210203-1517-OFFICIAL.zip/download",
    "version": "Eleven",
    "website_url": "https://evolution-x.org"
 }
